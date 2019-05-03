@@ -7,3 +7,5 @@ def roll
 end
 
 roll
+roll
+roll
